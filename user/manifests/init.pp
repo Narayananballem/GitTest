@@ -1,5 +1,5 @@
 class user {
-user { 'test8':
+user { 'test9':
 ensure => present,
 }
 }
